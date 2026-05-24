@@ -1,0 +1,9 @@
+Language: Python (version 3.10) 
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+jupyter
